@@ -8,4 +8,4 @@
 
 echo phpinfo();
 
-echo "develop 체크 아웃";  
+echo "develop 체크 아웃";
