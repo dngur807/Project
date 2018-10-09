@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: JWH
@@ -6,4 +6,11 @@
  * Time: 오후 7:33
  */
 echo "체리픽 해보자 ㅋㅋㅋ";
+
+
+echo "이거 나오면 안되지 ㅋㅋㅋ";
+
+
+echo "날짜만 변경";
+
 
